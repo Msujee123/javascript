@@ -1,6 +1,8 @@
 function add()
 {
-    return(a+b)
+    return(c,d)
 }
-var a = add(1,2)
-console.log(a)
+var x=add(c,d)
+console.log(x)
+
+

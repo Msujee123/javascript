@@ -6,3 +6,4 @@ if(rain)
     {
         console.log("Be ready at 8 am")
     }
+    
